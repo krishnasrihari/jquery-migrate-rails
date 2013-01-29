@@ -1,4 +1,4 @@
-# Jquery::Migrate::Rails
+# Jquery Migrate for Rails
 
 Include jQuery migrate for Rails project
 
