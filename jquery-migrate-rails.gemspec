@@ -8,9 +8,9 @@ Gem::Specification.new do |gem|
   gem.version       = Jquery::Migrate::Rails::VERSION
   gem.authors       = ["krishnasrihari"]
   gem.email         = ["krishna.srihari@gmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
-  gem.homepage      = ""
+  gem.description   = %q{jQuery migrate for rails application}
+  gem.summary       = %q{jQuery migrate rails}
+  gem.homepage      = "https://github.com/krishnasrihari/jquery-migrate-rails"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
