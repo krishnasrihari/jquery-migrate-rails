@@ -17,7 +17,7 @@ Or install it yourself as:
     $ gem install jquery-migrate-rails
 
 ## Usage
-Add jquery migate rails to app/assets/javascripts/application.js:
+Add jquery migrate rails to app/assets/javascripts/application.js:
 
 Include it after the jquery as below 
 
