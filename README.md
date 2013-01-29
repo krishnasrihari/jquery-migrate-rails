@@ -25,6 +25,10 @@ Include it after the jquery as below
 	//= require jquery-migrate-min
 
 
+===Reference
+* jQuery upgrade: http://jquery.com/upgrade-guide/1.9/
+* jQuery migrate: https://github.com/jquery/jquery-migrate
+  
 ## Contributing
 
 1. Fork it
