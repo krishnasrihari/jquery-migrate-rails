@@ -1,6 +1,6 @@
 # Jquery Migrate for Rails
 
-Include jQuery migrate for Rails project
+Include jQuery migrate for Rails application
 
 ## Installation
 
