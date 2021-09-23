@@ -1,7 +1,7 @@
 module Jquery
   module Migrate
     module Rails
-      VERSION = "1.2.1"
+      VERSION = "3.3.2"
     end
   end
 end
